@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "lab1",
+    "slug": "lab1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "lab1",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.oleksii.lab1",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      "expo-router",
+      "expo-splash-screen"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
