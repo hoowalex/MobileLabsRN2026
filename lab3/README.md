@@ -5,7 +5,7 @@
 
 ## Інструкція із запуску
 1. Клонувати репозиторій:
-`git clone git@github.com:hoowalex/MobileLabsRN2026.git`
+`git clone git@git.ztu.edu.ua:ipz222_roi/mobilelabsrn2026.git`
 
 2. Перейти в папку лабораторної роботи:
 `cd /lab3`
